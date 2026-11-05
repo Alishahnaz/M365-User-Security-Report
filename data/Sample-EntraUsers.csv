@@ -1,0 +1,16 @@
+DisplayName,UserPrincipalName,Department,License,MFAStatus,LastSignInDate,AdminRole,AccountEnabled
+Amira Patel,amira.patel@example.com,Finance,Microsoft 365 E3,Enabled,2026-11-03,None,True
+Noah Kim,noah.kim@example.com,IT,Microsoft 365 E5,Disabled,2026-10-18,Global Administrator,True
+Mia Clarke,mia.clarke@example.com,HR,Microsoft 365 E3,Disabled,2026-11-01,None,True
+Lucas Brown,lucas.brown@example.com,Sales,Microsoft 365 E3,Enabled,2026-06-01,None,True
+Chloe Nguyen,chloe.nguyen@example.com,Operations,Microsoft 365 E3,Enabled,2026-08-06,None,True
+Ethan Wilson,ethan.wilson@example.com,Finance,Microsoft 365 E3,Enabled,2026-08-07,None,True
+Olivia Martin,olivia.martin@example.com,People and Culture,Microsoft 365 E3,Enabled,2026-11-02,None,False
+Zara Shah,zara.shah@example.com,IT,None,Enabled,2026-10-26,User Administrator,True
+Oliver Reed,oliver.reed@example.com,IT,Microsoft 365 E5,Disabled,2026-04-15,Privileged Role Administrator,True
+Grace Wu,grace.wu@example.com,Legal,Microsoft 365 E3,Enabled,,None,True
+Leo Singh,leo.singh@example.com,Marketing,None,Disabled,2026-11-03,None,True
+Ava Thompson,ava.thompson@example.com,IT,Microsoft 365 E5,Enabled,2026-11-03,Global Administrator,True
+Henry Ellis,henry.ellis@example.com,Finance,Microsoft 365 E3,Disabled,,None,False
+Sofia Rossi,sofia.rossi@example.com,Sales,None,Enabled,2026-05-01,None,False
+Imani Price,imani.price@example.com,HR,Microsoft 365 E3,Disabled,2026-07-01,None,True
